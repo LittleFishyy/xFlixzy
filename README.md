@@ -11,4 +11,4 @@
 
 <h style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LittleFishyy&repo=fs_streethud)](https://github.com/littlefishy/fs_streethud)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LittleFishyy&repo=fs_streethud)](https://github.com/littlefishyy/fs_streethud)
