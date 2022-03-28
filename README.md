@@ -1,14 +1,6 @@
 <div align="center">
 <h1 style = "text-transform:uppercase">Hello, I'm LittleFishy</h1>
   
-<h2>Proyects</h2>
-  
-<h4>
-
-| Project Name | URL | Description |
-| ------------- |:-------------:|:--------------:|
-| Atlas Framework | [Discord](https://discord.gg/kg3g2Q94tQ) | We are a small group of developers working towards the creation on an innnovative FiveM RPG Framework. |
-
 </h4> 
 
 <h2>Stats<h2>
