@@ -3,11 +3,14 @@
   
 </h4> 
 
-<h2>Stats<h2>
+<h2>Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=LittleFishyy&show_icons=true&theme=tokyonight&hide=["issues"])
   
-<h2>Best repositories<h2>
+<h2>Languages</h2>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleFishyy&layout=compact&langs_count=7&theme=dark"/>
+  
+<h2>Best repositories</h2>
 
 <h style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
 
