@@ -1,17 +1,13 @@
-<div align="center">
-<h1 style = "text-transform:uppercase">Hello, I'm LittleFishy</h1>
-  
-</h4> 
-
-<h2>Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=LittleFishyy&show_icons=true&theme=tokyonight&hide=["issues"])
-  
-<h2>Languages</h2>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleFishyy&layout=compact&langs_count=7&theme=dark"/>
-  
-<h2>Best repositories</h2>
-
-<h style="height:5px; border: 1px solid #ccc; border-radius: 20px;">
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LittleFishyy&repo=fs_streethud)](https://github.com/littlefishyy/fs_streethud)
+<p align="center">
+  <a href="https://github.com/LittleFishyy">
+    <img src="https://github-readme-stats.vercel.app/api?username=LittleFishyy&count_private=true&include_all_commits=true&show_icons=true&theme=dark&custom_title=Stats"/>
+    <hr>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleFishyy">
+      <hr>
+       <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=LittleFishyy&style=flat-square"/>
+      </p>
+    </p>
+  </a>
+</p>
