@@ -1,4 +1,9 @@
-## Hola, hola!</strong>
+## Hola, hola! Soy LittleFishy</strong>
+
+<h3>😀 Sobre mi</h3>
+
+- 🤔 &nbsp; Explorando nuevas tecnologias y software.
+- 🌱 &nbsp; Aprendendo mas sobre **Laravel**.
 
 ## 🚀 Skills
 
