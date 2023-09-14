@@ -1,4 +1,4 @@
-## Hola, hola! Soy LittleFishy</strong>
+## Hola, hola!</strong>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -12,4 +12,4 @@
 ---
 
 ## ⭐ Informacion de Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=littlefishyy&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3r1k1&show_icons=true)
