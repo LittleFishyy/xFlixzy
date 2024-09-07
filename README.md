@@ -12,4 +12,4 @@
 ---
 
 ## ⭐ Informacion de Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3r1k1&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3r1k&show_icons=true)
